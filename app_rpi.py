@@ -201,5 +201,4 @@ def video_feed():
 
 if __name__ == '__main__':
     print("\nIniciando servidor Flask na RPi. Acesse http://<IP_RPi>:8080/ no seu navegador.")
-    # use_reloader=False é crucial quando se usa threads
     app.run(host='0.0.0.0', port=8080, threaded=True, use_reloader=False)
