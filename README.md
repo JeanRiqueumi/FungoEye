@@ -12,7 +12,9 @@ Mostra os gráficos de umidade e o vídeo com a detecção em tempo real.
 🖼️ Interface Gráfica: A interface gráfica (interface_grafica.py) é o painel de controle principal, oferecendo três abas com um design moderno e harmonizado: Monitoramento Atual - Exibe a imagem processada, os dados ambientais (Temperatura/Umidade) e o status da predição (Saudável/Fungo Detectado) em tempo real após cada captura. Relatórios e Histórico - Plota gráficos interativos baseados no data_historico.csv, permitindo visualizar tendências de temperatura e umidade ao longo do tempo. Fluxo de Arquivos e Config. - Informa os caminhos dos diretórios Imagens_RAW e Analises_Concluidas e contém opções futuras de configuração.=
 
 Projeto realizado como parte do projeto final para a matéria de Hardware Architecture na instituição superior ATITUS Educação.
+
 RA e nomes dos integrantes:
+
 Geraldo Konig - 1126596
 Jean Canova - 1137244
 Joâo Vitor Spiller - 1137246
